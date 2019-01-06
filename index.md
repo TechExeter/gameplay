@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'GAME>PLAY'
+description: A one-day gaming festival<br/> Saturdat 23rd Feb 10.30 - 18.00<br/> Exeter Phoenix 
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+GAME&gt;PLAY is a brand new one-day gaming festival for Exeter - bringing together playable art, retro gaming, indie games and theatre shows together under one roof.

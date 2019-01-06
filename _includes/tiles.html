@@ -12,7 +12,8 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
+  {% assign ordered_pages = site.pages | sort:"tile-order" %}
+  {% for page in ordered_pages %}
   {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
     <span class="image">

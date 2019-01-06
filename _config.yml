@@ -3,7 +3,7 @@ title: Game>Play
 subtitle: a TechExeter event
 email: hello@techexeter.uk
 description: A one day gaming festival on Sat 23rd Feb at Exeter Phoenix
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 14b Lower North Street
@@ -26,7 +26,7 @@ googleplus_url:
 instagram_url: 
 linkedin_url: 
 pinterest_url:
-slack_url:
+slack_url: https://techexeter.slack.com
 twitter_url: https://twitter.com/techexeter
 
 # build settings

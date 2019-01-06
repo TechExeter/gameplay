@@ -1,9 +1,10 @@
 ---
-title: Landing
+title: Art / Workshops
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Interactive Art and Interactive Workshops'
 image: assets/images/pic07.jpg
 nav-menu: true
+tile-order: 3
 ---
 
 <!-- Main -->
