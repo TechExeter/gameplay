@@ -4,15 +4,9 @@ subtitle: Exeter Phoenix > Sat 23rd Feb
 subtitle2: Exeter Phoenix > Sat 23rd Feb 2019
 email: hello@techexeter.uk
 description: A one day gaming festival on Sat 23rd Feb at Exeter Phoenix
-baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 14b Lower North Street
-city: Exeter
-state: Devon
-zip_code: EX4 3ET
-country: UK
-phone: 
+# baseurl: / # the subpath of your site, e.g. /blog
+# url: # the base hostname & protocol for your site
+google_analytics: UA-77113113-5
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
