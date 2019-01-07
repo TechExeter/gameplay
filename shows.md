@@ -44,6 +44,7 @@ tile-order: 1
 		</ul>
 	</div>
 	<div class="12u$">
+	<hr/>
 	<h2>The Incredible Playable Show</h2>
 	</div>
 	<div class="6u 12u$(small)">

@@ -16,7 +16,16 @@ tile-order: 3
 	<div class="inner">
 	<!-- Content -->
 
-	<h3 id="rebellion">Rebellion Playground, hosted by Scratchworks Theatre Company</h3>
+<div class="row">
+		
+	<div class="12u$">
+		<h2 id="rebellion">Rebellion Playground, hosted by Scratchworks Theatre Company</h2>
+	</div>
+	<div class="4u">
+		<span class="image fit"><img src="assets/images/gameplay-artworkshop-rebellion1.jpg" alt="Rebellion Playground" /></span>
+	</div>
+	
+	<div class="8u$">
 	<code>Location: 1st Floor / Dance Studio</code> <a href="#rebellion" class="button small special">Recommended for ages 16+</a>
 	<p>Step into the Rebellion Playground; a place for game changers, rule breakers, and balloon poppers!</p>
 	<p>This is a new interactive experience for anyone who wants to see change, big or small but doesn't know where to begin. Come and play, bend the rules, be provoked and start a discussion.<br/>
@@ -31,10 +40,22 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<ul class="actions">
 		<li><a href="#" class="button next">Reserve your slot (coming soon)</a></li>
 	</ul>
+	</div>
 
-	<h3>Pong Rewired, hosted by TechExeter</h3>
+	<div class="12u$">
+	<hr/>
+	<h2>Pong Rewired, hosted by TechExeter</h2>
+	</div>
+	
+	<div class="8u">
 	<code>Location: 1st Floor / Drama Studio</code>
-	<p>Part art installation, part workshop - come play our pong game using our crazy controllers, or enter the workshop and build your own to plug into our games system!</p>
+	<p>Come watch our glitched-out pong game self destruct the more it gets played! <br/>Challenge your friends to a game using our crazy controllers, but do you dare to press the big red button?</p>
+	<p>Join us in our workshop area to build your own controllers and switches to plug into the game. We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
+	</div>
+	<div class="4u$">
+		<span class="image fit"><img src="assets/images/gameplay-artworkshop-pong1.jpg" alt="Rebellion Playground" /></span>
+	</div>
+</div>
 
 </div>
 </section>

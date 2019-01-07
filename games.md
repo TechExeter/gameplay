@@ -20,8 +20,8 @@ tile-order: 2
 				<header class="major smallmargin">
 					<h3>Joypad Arcade</h3>
 				</header>
-				<p>Our friends at London based Joypad Arcade are coming down with their retro hardware to give us 12 stations of gaming goodness, placed throughout the Exeter Phoenix</p>
-				<p>We know everyone has their favourites... Rather break out the special moves in Street Fighter II over Streets of Rage? Prefer to hit the track with Mario Kart or Micro Machines? Sooner settle old scores with Goldeneye or Super Smash Bros.? Whatever your tastes, we should have you covered!</p>
+				<p>Our friends at London based Joypad Arcade are coming down with their <strong>retro consoles</strong> to give us 12 stations of gaming goodness, which will be placed throughout the Exeter Phoenix. SNES, MegaDrive, GameCube, Dreamcast, N64, PlayStation - we've got them all!</p>
+				<p>We know everyone has their favourite consoles and games - Prefer to break out the special moves in Street Fighter II over Streets of Rage? Rather hit the track with Mario Kart or Micro Machines? Sooner settle old scores with Goldeneye or Super Smash Bros.? Whatever your tastes, we should have you covered!</p>
 				<ul class="actions">
 					<li><a href="http://www.joypadbar.co.uk" class="button small" target="_blank">Learn more</a></li>
 				</ul>
@@ -29,7 +29,7 @@ tile-order: 2
 		</div>
 	</section>
 	<section>
-			<img src="assets/images/gameplay-games-joypadbar1.jpg" alt="" data-position="center center" />
+		<img src="assets/images/gameplay-games-joypadbar1.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
@@ -74,7 +74,7 @@ tile-order: 2
 					<h3>Tap Happy Sabotage</h3>
 				</header>
 				<code>Location: 1st Floor / Drama Studio</code>
-				<p>Tap Happy Sabotage! is a party game by Alistair Aitcheson for as many players that can fit around one giant touchscreen.</p>
+				<p>A frantic party game by Alistair Aitcheson for as many players as can fit around one giant touchscreen!</p>
 
 				<p>Divided into a series of fast-and-furious minigames, each round gives the player a new way to move around the screen, a new excuse to get in each other's way and a new way to cheat and sabotage each other!</p>
 
