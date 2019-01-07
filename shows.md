@@ -16,7 +16,7 @@ nav-order: 1
 	<div class="inner">
 <!-- Content -->
 <div class="boxed">Location: Main Auditorium</div>
-<p>Tickets to the shows <strong>must be purchased in advance</strong> through the website or purchased on the day from the box office. We've worked hard with our sponsors to keep these ticket prices at just a few pounds each!</p>
+<p>The following shows are ticketed. Tickets can be purchased from the box office on the day, or reserve your seat in advance via the website (highly recommended - we've worked hard to keep these ticket prices low at just a few pounds each, so they're sure to go quickly!)</p>
 
 <div class="row">
 		

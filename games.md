@@ -22,7 +22,7 @@ nav-order: 2
 					<h3>Joypad Arcade</h3>
 				</header>
 				<p>Our friends at London based Joypad Arcade are coming down with their <strong>retro consoles</strong> to give us 12 stations of gaming goodness, which will be placed throughout the Exeter Phoenix. SNES, MegaDrive, GameCube, Dreamcast, N64, PlayStation - we've got them all!</p>
-				<p>We know everyone has their favourite consoles and games - Prefer to break out the special moves in Street Fighter II over Streets of Rage? Rather hit the track with Mario Kart or Micro Machines? Sooner settle old scores with Goldeneye or Super Smash Bros.? Whatever your tastes, we should have you covered!</p>
+				<p>We know everyone has their favourite consoles and games - prefer to break out the special moves in Street Fighter II over Streets of Rage? Rather hit the track with Mario Kart or Micro Machines? Sooner settle old scores with Goldeneye or Super Smash Bros.? Whatever your tastes, we should have you covered!</p>
 				<ul class="actions">
 					<li><a href="http://www.joypadbar.co.uk" class="button small" target="_blank">Learn more</a></li>
 				</ul>
@@ -39,12 +39,10 @@ nav-order: 2
 				<div class="boxed">Location: Workshop</div>
 				<p>Triangular Pixels are award winning Cornish indie games developers, with a passion for fun, light hearted, and manic local multiplayer gaming. They're bringing their latest games for you to have an exclusive play on!</p>
 				
-				<h3 style="margin:0px;">Unseen Diplomacy</h3>
-				<div class="boxed">VR: HTC Vive</div>
+				<h3 style="margin:0px;">Unseen Diplomacy, HTC Vive</h3>
 				<p>Unseen Diplomacy casts you as an elite member of The British Espionage Tactical Initiative, defeating the plans of evil-doers around the world. It's a real-life obstacle course using every inch of the room-scale space - you will run and roll & sneak your way through volanco lairs and moon bases. </p>
 
-				<h3 style="margin:0px;">Smash Hit Plunder</h3>
-				<div class="boxed">VR: Playstation VR</div>
+				<h3 style="margin:0px;">Smash Hit Plunder,  Playstation VR</h3>
 				<p>It’s time to wreck a castle! Smash alone, together or against friends in VR and TV! Smash Hit Plunder is a physics-based tear-it-up set in a medieval castle. Be a powerful mage with the freedom to roam in first-person, inside a retro isometric game. Fight ghosts, munch food, start fires and cause chaos and collect as much treasure as possible before your time ends!</p>
 
 
