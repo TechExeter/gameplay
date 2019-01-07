@@ -35,7 +35,7 @@ tile-order: 2
 				<header class="major smallmargin">
 					<h3>Triangular Pixels, independent games developers</h3>
 				</header>
-				<code>Location: Workshop</code>
+				<div class="boxed">Location: Workshop</div>
 				<p>Triangular Pixels are Cornish independent games developers, with a passion for fun, light hearted, and manic local multiplayer gaming. They're bringing their latest games for you to have an exclusive play on!</p>
 				
 				<p><strong>Unseen Diplomacy</strong> casts you as an elite member of The British Espionage Tactical Initiative, defeating the plans of evil-doers around the world. With a real-life obstacle course using every inch of your room-scale space, created by Steam VR, you will run and roll & sneak your way through lairs. </p>
@@ -52,7 +52,7 @@ tile-order: 2
 				<header class="major smallmargin">
 					<h3>Codex Bash</h3>
 				</header>
-				<code>Location: 1st Floor / Meeting Room</code>
+				<div class="boxed">Location: 1st Floor / Meeting Room</div>
 
 				<p>A game installation designed by Alistair Aitcheson to mix physical movement with teamwork, communication and problem-solving.</p>
 
@@ -73,7 +73,7 @@ tile-order: 2
 				<header class="major smallmargin">
 					<h3>Tap Happy Sabotage</h3>
 				</header>
-				<code>Location: 1st Floor / Drama Studio</code>
+				<div class="boxed">Location: 1st Floor / Drama Studio</div>
 				<p>A frantic party game by Alistair Aitcheson for as many players as can fit around one giant touchscreen!</p>
 
 				<p>Divided into a series of fast-and-furious minigames, each round gives the player a new way to move around the screen, a new excuse to get in each other's way and a new way to cheat and sabotage each other!</p>

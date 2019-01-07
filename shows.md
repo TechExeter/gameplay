@@ -10,13 +10,12 @@ tile-order: 1
 <!-- Main -->
 <div id="main" class="alt">
 
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
 <!-- Content -->
-<h2 id="content">Daytime Shows</h2>
-<p>Unlike the other festival activities (which are all <em>free</em> btw!), tickets to the shows <strong>must be purchased in advance</strong> or on the day from the box office. We've worked hard with our sponsors to keep these ticket prices at just a few pounds each!</p>
+<div class="boxed">Location: Main Auditorium</div>
+<p>Tickets to the shows <strong>must be purchased in advance</strong> through the website or purchased on the day from the box office. We've worked hard with our sponsors to keep these ticket prices at just a few pounds each!</p>
 
 <div class="row">
 		
@@ -32,12 +31,12 @@ tile-order: 1
 		<p>
 		Interactive and insane, this is improv comedy + retro gaming fused into a deranged rock n’ roll game show.</p> 
 		<blockquote>YOU AWAKE TO FIND YOURSELF IN… THE DARK ROOM!</blockquote>
-		<p>Created by comedian <a href="https://www.thejohnrobertson.com/thedarkroom/" target="_blank">John Robertson</a>, The Dark Room has appeared in front of audiences ranging from high hundreds to acceptable thousands and since 2010, has had eight consecutive runs at the Edinburgh Fringe.</p>
-<p>There’s also a child-friendly(ish) version, which took home Best Kid’s Show at Leicester Comedy Festival 2018.</p>
-<p>No two shows are the same. No other show is the same. This is THE DARK ROOM!</p>
+		<p>Created by comedian <a href="https://www.thejohnrobertson.com/thedarkroom/" target="_blank">John Robertson</a>, The Dark Room has appeared in front of audiences ranging from high hundreds to acceptable thousands and since 2010, has had eight consecutive runs at the Edinburgh Fringe.<br/>
+		No two shows are the same. No other show is the same. This is THE DARK ROOM!</p>
+		<p>There’s also a child-friendly(ish) version, which took home Best Kid’s Show at Leicester Comedy Festival 2018.</p>
 		<ul>
-			<li>Show 1, Main Auditorium - child-friendly, 13:00</li>
-			<li>Show 2, Main Auditorium (18+) - adults only, 16:30</li>
+			<li>Show 1 - child-friendly, 13:00</li>
+			<li>Show 2 (18+) - adults only, 16:30</li>
 		</ul>
 		<ul class="actions">
 			<li><a href="#" class="button next">Book Tickets (coming soon)</a></li>
@@ -61,8 +60,8 @@ tile-order: 1
 		Created by game developer <a href="https://playable.show/" target="_blank">Alistair Aitcheson</a> the show has toured internationally and won the Jury Choice Award at
 		IndieCade 2017.</p>
 		<ul>
-			<li>Show 1, Main Auditorium 11:00</li>
-			<li>Show 2, Main Auditorium 15:00</li>
+			<li>Show 1 - 11:00</li>
+			<li>Show 2 - 15:00</li>
 		</ul>
 
 		<ul class="actions">
