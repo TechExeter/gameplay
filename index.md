@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'GAME>PLAY'
-description: A one-day gaming festival<br/> Saturdat 23rd Feb 10.30 - 18.00<br/> Exeter Phoenix 
+description: A one-day gaming festival<br/> Saturday 23rd Feb 10.30 - 18.00<br/> Exeter Phoenix 
 image: null
 author: null
 show_tile: false

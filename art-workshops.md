@@ -2,7 +2,7 @@
 title: Art / Workshops
 layout: landing
 description: 'Interactive Art and Interactive Workshops'
-image: assets/images/pic07.jpg
+image: assets/images/gameplay-games-joypadbar1.jpg
 nav-menu: true
 tile-order: 3
 ---

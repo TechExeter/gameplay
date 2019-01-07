@@ -2,7 +2,7 @@
 layout: landing
 title: Games
 description: Retro and Indie games
-image: assets/images/gameplay-games-joypadbar1.jpg
+image: assets/images/gameplay-games-joypadbar2.jpg
 nav-menu: true
 tile-order: 2
 ---
