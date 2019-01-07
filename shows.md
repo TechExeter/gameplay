@@ -36,11 +36,11 @@ tile-order: 1
 <p>There’s also a child-friendly(ish) version, which took home Best Kid’s Show at Leicester Comedy Festival 2018.</p>
 <p>No two shows are the same. No other show is the same. This is THE DARK ROOM!</p>
 		<ul>
-			<li>Show 1, Main Auditorium - child-friendly, 3pm</li>
-			<li>Show 2, Main Auditorium (18+) - adults only, 5pm</li>
+			<li>Show 1, Main Auditorium - child-friendly, 13:00</li>
+			<li>Show 2, Main Auditorium (18+) - adults only, 16:30</li>
 		</ul>
 		<ul class="actions">
-			<li><a href="#" class="button next">Book Tickets</a></li>
+			<li><a href="#" class="button next">Book Tickets (coming soon)</a></li>
 		</ul>
 	</div>
 	<div class="12u$">
@@ -60,12 +60,12 @@ tile-order: 1
 		Created by game developer <a href="https://playable.show/" target="_blank">Alistair Aitcheson</a> the show has toured internationally and won the Jury Choice Award at
 		IndieCade 2017.</p>
 		<ul>
-			<li>Show 1, Main Auditorium - child-friendly, 3pm</li>
-			<li>Show 2, Main Auditorium (18+) - adults only, 5pm</li>
+			<li>Show 1, Main Auditorium 11:00</li>
+			<li>Show 2, Main Auditorium 15:00</li>
 		</ul>
 
 		<ul class="actions">
-			<li><a href="#" class="button next">Book Tickets</a></li>
+			<li><a href="#" class="button next">Book Tickets (coming soon)</a></li>
 		</ul>
 	</div>
 </div>
