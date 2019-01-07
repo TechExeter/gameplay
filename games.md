@@ -29,16 +29,24 @@ tile-order: 2
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/gameplay-games-joypadbar1.jpg" alt="" data-position="center center" />
+		<img src="assets/images/gameplay-games-triangular1.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
-					<h3>Triangular Pixels, independent games developers</h3>
+					<h3>Triangular Pixels' VR Expo</h3>
 				</header>
 				<div class="boxed">Location: Workshop</div>
-				<p>Triangular Pixels are Cornish independent games developers, with a passion for fun, light hearted, and manic local multiplayer gaming. They're bringing their latest games for you to have an exclusive play on!</p>
+				<p>Triangular Pixels are award winning Cornish indie games developers, with a passion for fun, light hearted, and manic local multiplayer gaming. They're bringing their latest games for you to have an exclusive play on!</p>
 				
-				<p><strong>Unseen Diplomacy</strong> casts you as an elite member of The British Espionage Tactical Initiative, defeating the plans of evil-doers around the world. With a real-life obstacle course using every inch of your room-scale space, created by Steam VR, you will run and roll & sneak your way through lairs. </p>
+				<h3 style="margin:0px;">Unseen Diplomacy</h3>
+				<div class="boxed">VR: HTC Vive</div>
+				<p>Unseen Diplomacy casts you as an elite member of The British Espionage Tactical Initiative, defeating the plans of evil-doers around the world. It's a real-life obstacle course using every inch of the room-scale space - you will run and roll & sneak your way through volanco lairs and moon bases. </p>
+
+				<h3 style="margin:0px;">Smash Hit Plunder</h3>
+				<div class="boxed">VR: Playstation VR</div>
+				<p>It’s time to wreck a castle! Smash alone, together or against friends in VR and TV! Smash Hit Plunder is a physics-based tear-it-up set in a medieval castle. Be a powerful mage with the freedom to roam in first-person, inside a retro isometric game. Fight ghosts, munch food, start fires and cause chaos and collect as much treasure as possible before your time ends!</p>
+
+
 				<ul class="actions">
 					<li><a href="http://www.triangularpixels.net/cms/" class="button small" target="_blank">Learn more</a></li>
 				</ul>
