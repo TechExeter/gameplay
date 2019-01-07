@@ -5,6 +5,7 @@ description: Book tickets for the daytime shows
 image: assets/images/gameplay-shows.jpg
 nav-menu: true
 tile-order: 1
+nav-order: 1
 ---
 
 <!-- Main -->

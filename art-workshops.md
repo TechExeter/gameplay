@@ -5,6 +5,7 @@ description: 'Interactive Art and Playful Workshops'
 image: assets/images/gameplay-games-joypadbar1.jpg
 nav-menu: true
 tile-order: 3
+nav-order: 3
 ---
 
 <!-- Main -->

@@ -4,6 +4,7 @@ layout: page
 description: 'What is Game>Play, and who are TechExeter?'
 image: assets/images/gameplay-bg.gif
 nav-menu: true
+nav-order: 4
 ---
 
 <!-- Main -->

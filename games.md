@@ -5,6 +5,7 @@ description: Retro and Indie games
 image: assets/images/gameplay-games-joypadbar2.jpg
 nav-menu: true
 tile-order: 2
+nav-order: 2
 ---
 
 <!-- Main -->
