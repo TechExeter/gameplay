@@ -30,7 +30,7 @@ tile-order: 1
 	<div class="6u$ 12u$(small)">
 		<h4>“The Dark Room” is the world’s only live-action videogame. </h4>
 		<p>
-		Interactive and insane, this is impro comedy + retro gaming fused into a deranged rock n’ roll game show.</p> 
+		Interactive and insane, this is improv comedy + retro gaming fused into a deranged rock n’ roll game show.</p> 
 		<blockquote>YOU AWAKE TO FIND YOURSELF IN… THE DARK ROOM!</blockquote>
 		<p>Created by comedian <a href="https://www.thejohnrobertson.com/thedarkroom/" target="_blank">John Robertson</a>, The Dark Room has appeared in front of audiences ranging from high hundreds to acceptable thousands and since 2010, has had eight consecutive runs at the Edinburgh Fringe.</p>
 <p>There’s also a child-friendly(ish) version, which took home Best Kid’s Show at Leicester Comedy Festival 2018.</p>
