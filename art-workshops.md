@@ -22,11 +22,11 @@ nav-order: 3
 	<div class="12u$">
 		<h2 id="rebellion">Rebellion Playground, hosted by Scratchworks Theatre Company</h2>
 	</div>
-	<div class="4u">
+	<div class="4u 12u$(small)">
 		<span class="image fit"><img src="assets/images/gameplay-artworkshop-rebellion1.jpg" alt="Rebellion Playground" /></span>
 	</div>
 	
-	<div class="8u$">
+	<div class="8u$ 12u$(small)">
 	<div class="boxed">Location: 1st Floor / Dance Studio</div> 
 	<div class="boxed warning"><i class="fa fa-warning"></i> Recommended for ages 16+</div>
 	<p>Step into the Rebellion Playground; a place for game changers, rule breakers, and balloon poppers!</p>
@@ -49,12 +49,12 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<h2>PONG Rewired, hosted by TechExeter</h2>
 	</div>
 	
-	<div class="8u">
+	<div class="8u 12u$(small)">
 	<div class="boxed">Location: 1st Floor / Drama Studio</div>
 	<p>Come watch our glitched-out pong game self destruct the more it gets played! <br/>Challenge your friends to a game using our crazy controllers, but do you dare to press the big red button?</p>
 	<p>Join us in our workshop area to build your own controllers and switches to plug into the game. We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
 	</div>
-	<div class="4u$">
+	<div class="4u$ 12u$(small)">
 		<span class="image fit"><img src="assets/images/gameplay-artworkshop-pong1.jpg" alt="Pong Rewired" /></span>
 	</div>
 
@@ -64,11 +64,11 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<hr/>
 		<h2 id="cat">Cat Explorer</h2>
 	</div>
-	<div class="4u">
+	<div class="4u 12u$(small)">
 		<span class="image fit"><img src="assets/images/gameplay-artworkshop-catexplorer1.jpg" alt="Cat Explorer" /></span>
 	</div>
 	
-	<div class="8u$">
+	<div class="8u$ 12u$(small)">
 	<div class="boxed">Location: 1st Floor / Dance Studio</div> 
 	<div class="boxed type">VR Experiment</div> 
 	<p>VR interactions have the potential to be easier and more intuitive than with any other technology. Cat Explorer is a fun demo that points to the transformative potential of VR and natural interaction in fields as diverse as education, training, healthcare, and entertainment.</p>

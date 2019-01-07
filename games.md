@@ -15,7 +15,9 @@ nav-order: 2
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="assets/images/gameplay-games-joypadbar3.jpg" alt="" data-position="center center" />
+		<i class="image">
+			<img src="assets/images/gameplay-games-joypadbar4.jpg" alt=""/>
+		</i>
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
@@ -30,7 +32,9 @@ nav-order: 2
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/gameplay-games-triangular1.jpg" alt="" data-position="center center" />
+		<i class="image">
+		<img src="assets/images/gameplay-games-triangular1.jpg" />
+		</i>
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
@@ -53,7 +57,9 @@ nav-order: 2
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/gameplay-games-codexbash1.jpg" alt="" data-position="center center" />
+		<i class="image">
+		<img src="assets/images/gameplay-games-codexbash1.jpg"  />
+		</i>
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
@@ -74,7 +80,9 @@ nav-order: 2
 		</div>
 	</section>
 		<section>
-			<img src="assets/images/gameplay-games-taphappy1.jpg" alt="" data-position="center center"  class="fill"/>
+			<i class="image">
+			<img src="assets/images/gameplay-games-taphappy2.jpg" alt=""  class="fill"/>
+			</i>
 			<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">

@@ -21,7 +21,9 @@ nav-order: 4
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="assets/images/gameplay-about-exeter1.jpg" alt="" data-position="center center" />
+		<i class="image">
+		<img src="assets/images/gameplay-about-exeter1.jpg" />
+		</i>
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
@@ -32,7 +34,9 @@ nav-order: 4
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/gameplay-about-techexeter2.jpg" alt="" data-position="center center" />
+		<i class="image">
+			<img src="assets/images/gameplay-about-techexeter2.jpg" />
+		</i>
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
@@ -44,7 +48,9 @@ nav-order: 4
 		</div>
 	</section>
 		<section>
-		<img src="assets/images/gameplay-about-techexeter1.jpg" alt="" data-position="center center" />
+		<i class="image">
+			<img src="assets/images/gameplay-about-techexeter1.jpg" alt=""  />
+		</i>
 		<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
