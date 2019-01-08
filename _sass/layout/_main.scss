@@ -51,3 +51,9 @@
 
 	}
 	
+	.smallermargins { 
+		p, ul, blockquote { 
+			margin-bottom: 1em;
+		}
+	}
+	ul.nobullets li { list-style: none; }

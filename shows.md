@@ -18,7 +18,7 @@ nav-order: 1
 <div class="boxed">Location: Main Auditorium</div>
 <p>The following shows are ticketed. Tickets can be purchased from the box office on the day, or reserve your seat in advance via the website (highly recommended - we've worked hard to keep these ticket prices low at just a few pounds each, so they're sure to go quickly!)</p>
 
-<div class="row">
+<div class="row smallermargins">
 		
 	<div class="12u$">
 	<h2>The Dark Room</h2>
@@ -28,13 +28,18 @@ nav-order: 1
 		<a href="https://www.youtube.com/watch?v=gpAiW6uy_iY" target="_blank"><i class="icon alt fa-youtube" ></i> Watch on youtube</a>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h4>“The Dark Room” is the world’s only live-action videogame. </h4>
-		<p>
-		Interactive and insane, this is improv comedy + retro gaming fused into a deranged rock n’ roll game show.</p> 
-		<blockquote>YOU AWAKE TO FIND YOURSELF IN… THE DARK ROOM!</blockquote>
-		<p>Created by comedian <a href="https://www.thejohnrobertson.com/thedarkroom/" target="_blank">John Robertson</a>, The Dark Room has appeared in front of audiences ranging from high hundreds to acceptable thousands and since 2010, has had eight consecutive runs at the Edinburgh Fringe.<br/>
-		No two shows are the same. No other show is the same. This is THE DARK ROOM!</p>
+		<blockquote>YOU AWAKE TO FIND YOURSELF IN A DARK ROOM!</blockquote>
+		<p>The audience is trapped in a retro videogame with a sadistic end-of-level boss. Now either escape and win &pound;1000 - or be brutally murdered by the rest of the crowd! Will you:</p>
+		<ul class="nobullets">
+			<li>A) Find the Light Switch?</li>
+			<li>B) Go North?</li>
+			<li>C) Abandon Hope? </li>
+		</ul>
+		<p>Filled with stand-up, appalling prizes and more audience chanting than you’d get at a protest - this is a gut-busting rock n’ roll experience for everyone who buys a ticket. </p>
 		<p>There’s also a child-friendly(ish) version, which took home Best Kid’s Show at Leicester Comedy Festival 2018.</p>
+		<pre><code>★★★★★ ‘You must see this show’ – British Comedy Guide
+★★★★★ ‘Utterly unique.’ - The Skinny</code></pre>
+
 		<ul>
 			<li>Show 1 - child-friendly, 13:00</li>
 			<li>Show 2 (18+) - adults only, 16:30</li>
