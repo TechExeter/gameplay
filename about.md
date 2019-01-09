@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+html-title: About -
 description: 'What is Game>Play, and who are TechExeter?'
 image: assets/images/gameplay-bg.gif
 nav-menu: true

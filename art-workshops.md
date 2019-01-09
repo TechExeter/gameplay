@@ -1,6 +1,7 @@
 ---
 title: Art / Workshops
 layout: landing
+html-title: Art / Workshops -
 description: 'Interactive Art and Playful Workshops'
 image: assets/images/gameplay-games-joypadbar1.jpg
 nav-menu: true

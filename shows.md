@@ -1,6 +1,7 @@
 ---
 layout: landing
 title: Shows
+html-title: Shows -
 description: Book tickets for the daytime shows
 image: assets/images/gameplay-shows.jpg
 nav-menu: true
