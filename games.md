@@ -80,26 +80,42 @@ nav-order: 2
 			</div>
 		</div>
 	</section>
+	
 		<section>
 			<i class="image">
-			<img src="assets/images/gameplay-games-taphappy2.jpg" alt=""  class="fill"/>
+			<img src="assets/images/gameplay-games-acerpredator1.jpg" alt=""  class="fill"/>
 			</i>
 			<div class="content">
 			<div class="inner">
 				<header class="major smallmargin">
-					<h3>Tap Happy Sabotage</h3>
+					<h3>Acer Predator Gaming</h3>
 				</header>
-				<div class="boxed">Location: 1st Floor / Drama Studio</div>
-				<p>A frantic party game by Alistair Aitcheson for as many players as can fit around one giant touchscreen!</p>
-
-				<p>Divided into a series of fast-and-furious minigames, each round gives the player a new way to move around the screen, a new excuse to get in each other's way and a new way to cheat and sabotage each other!</p>
-
-				<ul class="actions">
-					<li><a href="https://www.youtube.com/watch?v=Fd3GZvUWTiE" class="button small" target="_blank">Watch on YouTube</a></li>
-				</ul>
+				<div class="boxed">Location: Outside, adjacent to main entrance</div>
+				<p>Acer UK has partnered with Currys PC World and are bringing their converted VW T5 to Exeter. The fully immersive Predator Gaming Van is fitted with the latest Predator products for visitors to trial and experience, The Predator Orion 9000, Predator Triton 700, Predator Helios 500 & 300 and Predator Z35P.</p>
 			</div>
 		</div>
 	</section>
+	<section>
+		<i class="image">
+		<img src="assets/images/gameplay-games-taphappy2.jpg" alt=""  class="fill"/>
+		</i>
+		<div class="content">
+		<div class="inner">
+			<header class="major smallmargin">
+				<h3>Tap Happy Sabotage</h3>
+			</header>
+			<div class="boxed">Location: 1st Floor / Drama Studio</div>
+			<p>A frantic party game by Alistair Aitcheson for as many players as can fit around one giant touchscreen!</p>
+
+			<p>Divided into a series of fast-and-furious minigames, each round gives the player a new way to move around the screen, a new excuse to get in each other's way and a new way to cheat and sabotage each other!</p>
+
+			<ul class="actions">
+				<li><a href="https://www.youtube.com/watch?v=Fd3GZvUWTiE" class="button small" target="_blank">Watch on YouTube</a></li>
+			</ul>
+		</div>
+		</div>
+	</section>
+
 </section>
 
 
