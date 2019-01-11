@@ -46,7 +46,7 @@ nav-order: 1
 			<li>Show 2 (18+) - adults only, 16:30</li>
 		</ul>
 		<ul class="actions">
-			<li><a href="#" class="button next">Book Tickets (coming soon)</a></li>
+			<li><a href="https://www.exeterphoenix.org.uk/bookings/?webid=40069" class="button next" target="booking">Book Tickets (£3 each + £1 fee)</a></li>
 		</ul>
 	</div>
 	<div class="12u$">
@@ -72,8 +72,11 @@ nav-order: 1
 		</ul>
 
 		<ul class="actions">
-			<li><a href="#" class="button next">Book Tickets (coming soon)</a></li>
+			<li><a href="https://www.exeterphoenix.org.uk/bookings/?webid=40070" class="button next" target="booking">Book Tickets (£3 each + £1 fee)</a></li>
 		</ul>
+	</div>
+	<div class="12u$" style="margin:1em; padding:1em; text-align:center; background: rgba(212,212,255,0.035);">
+	Please direct all box office &amp; ticketing queries to Exeter Phoenix at <a href="https://www.exeterphoenix.org.uk/about-us/contact-2/" target="_blank">https://www.exeterphoenix.org.uk/about-us/contact-2/</a>
 	</div>
 </div>
 

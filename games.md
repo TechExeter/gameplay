@@ -2,7 +2,7 @@
 layout: landing
 title: Games
 html-title: Games -
-description: Retro and Indie games
+description: Retro, Indie and Virtual Reality gaming
 image: assets/images/gameplay-games-joypadbar2.jpg
 nav-menu: true
 tile-order: 2
@@ -24,7 +24,7 @@ nav-order: 2
 				<header class="major smallmargin">
 					<h3>Joypad Arcade</h3>
 				</header>
-				<p>Our friends at London based Joypad Arcade are coming down with their <strong>retro consoles</strong> to give us 12 stations of gaming goodness, which will be placed throughout the Exeter Phoenix. SNES, MegaDrive, GameCube, Dreamcast, N64, PlayStation - we've got them all!</p>
+				<p>Our friends at <a href="http://www.joypadbar.co.uk/joypad-arcade" target="_blank">Joypad</a> are providing a selection of retro consoles to give us 12 stations of gaming goodness, which will be placed throughout the Exeter Phoenix. SNES, MegaDrive, GameCube, Dreamcast, N64, PlayStation - we've got them all!</p>
 				<p>We know everyone has their favourite consoles and games - prefer to break out the special moves in Street Fighter II over Streets of Rage? Rather hit the track with Mario Kart or Micro Machines? Sooner settle old scores with Goldeneye or Super Smash Bros.? Whatever your tastes, we should have you covered!</p>
 				<ul class="actions">
 					<li><a href="http://www.joypadbar.co.uk" class="button small" target="_blank">Learn more</a></li>
