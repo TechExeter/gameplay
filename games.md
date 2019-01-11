@@ -104,7 +104,7 @@ nav-order: 2
 			<header class="major smallmargin">
 				<h3>Tap Happy Sabotage</h3>
 			</header>
-			<div class="boxed">Location: 1st Floor / Drama Studio</div>
+			<div class="boxed">Location: 1st Floor / Dance Studio</div>
 			<p>A frantic party game by Alistair Aitcheson for as many players as can fit around one giant touchscreen!</p>
 
 			<p>Divided into a series of fast-and-furious minigames, each round gives the player a new way to move around the screen, a new excuse to get in each other's way and a new way to cheat and sabotage each other!</p>

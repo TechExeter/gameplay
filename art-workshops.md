@@ -28,7 +28,7 @@ nav-order: 3
 	</div>
 	
 	<div class="8u$ 12u$(small)">
-	<div class="boxed">Location: 1st Floor / Dance Studio</div> 
+	<div class="boxed">Location: 1st Floor / Drama Studio</div> 
 	<div class="boxed warning"><i class="fa fa-warning"></i> Recommended for ages 16+</div>
 	<p>Step into the Rebellion Playground; a place for game changers, rule breakers, and balloon poppers!</p>
 	<p>This is a new interactive experience for anyone who wants to see change, big or small but doesn't know where to begin. Come and play, bend the rules, be provoked and start a discussion.<br/>
@@ -51,7 +51,7 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	</div>
 	
 	<div class="8u 12u$(small)">
-	<div class="boxed">Location: 1st Floor / Drama Studio</div>
+	<div class="boxed">Location: 1st Floor / Dance Studio</div>
 	<p>Come watch our glitched-out pong game self destruct the more it gets played! <br/>Challenge your friends to a game using our crazy controllers, but do you dare to press the big red button?</p>
 	<p>Join us in our workshop area to build your own controllers and switches to plug into the game. We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
 	</div>
