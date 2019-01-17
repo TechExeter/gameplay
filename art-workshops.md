@@ -2,7 +2,8 @@
 title: Art / Workshops
 layout: landing
 html-title: Art / Workshops -
-description: 'Interactive Art and Playful Workshops'
+description: Interactive Art and Playful Workshops
+description-long: Interactive Art and Playful Workshops. All Free!
 image: assets/images/gameplay-games-joypadbar1.jpg
 nav-menu: true
 tile-order: 3
@@ -25,6 +26,10 @@ nav-order: 3
 	</div>
 	<div class="4u 12u$(small)">
 		<span class="image fit"><img src="assets/images/gameplay-artworkshop-rebellion1.jpg" alt="Rebellion Playground" /></span>
+		
+		<a href="https://www.facebook.com/ScratchworksTheatreCompany" target="_blank"><i class="fa fa-facebook"></i></a>
+		<a href="https://twitter.com/ScratchworksC" target="_blank"><i class="fa fa-twitter"></i></a>
+		Scratchworks Theatre Company 
 	</div>
 	
 	<div class="8u$ 12u$(small)">
@@ -66,13 +71,16 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 
 	<div class="12u$">
 	<hr/>
-	<h2>PONG Rewired, hosted by TechExeter</h2>
+	<h2>PONG Rewired</h2>
 	</div>
 	
 	<div class="8u 12u$(small)">
 	<div class="boxed">Location: 1st Floor / Dance Studio</div>
 	<p>Come watch our glitched-out pong game self destruct the more it gets played! <br/>Challenge your friends to a game using our crazy controllers, but do you dare to press the big red button?</p>
-	<p>Join us in our workshop area to build your own controllers and switches to plug into the game. We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
+	<h3>Maker Workshop</h3>
+	<p>Join us in our workshop area (hosted by <a href="http://2timesdo.co.uk/" taget="_blank">2times.do</a>) to build your own controllers and switches to plug into the game. We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
+	<h3>Developer Workshop</h3>
+	<p>We'll have the full game sourcecode available if you want to make new builds of the game - just bring along your laptop and have the latest version of <a href="http://unity3d.com/" target="_blank">Unity</a> installed!</p>
 	</div>
 	<div class="4u$ 12u$(small)">
 		<span class="image fit"><img src="assets/images/gameplay-artworkshop-pong1.jpg" alt="Pong Rewired" /></span>
@@ -95,7 +103,7 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<p>Instead of learning how to use a controller, Cat Explorer encourages you to learn through play and experimentation. With no instructions, previous experience or training, people can dive into the space and quickly understand what to do. Get exploring!</p>
 
 	<ul class="actions">
-		<li><a href="https://gallery.leapmotion.com/cat-explorer/" class="button small">Learn More</a></li>
+		<li><a href="https://gallery.leapmotion.com/cat-explorer/" class="button small" target="_blank">Learn More</a></li>
 	</ul>
 	
 	</div>

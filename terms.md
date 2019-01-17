@@ -58,9 +58,9 @@ sitemap:
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
+		<div class="image">
+			<img src="assets/images/gameplay-games-joypadbar4.jpg" alt="" data-position="center center" />
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -71,7 +71,7 @@ sitemap:
 <p>We use your data to help us with core CIC activities like running meetups, conferences and tech events like this one – we don’t use your data for general purpose marketing purposes or for selling onto third parties.</p>
 <h2>Types of data we collect</h2>
 <h3>Website Cookies</h3>
-<p>We only use cookies to make our sites work. We hate the EU cookie privacy rules &#8211; they&#8217;re stupid and we think it&#8217;s ridiculous to have cookie consent for sites that need cookies to function correctly. I mean, how do you even have http sessions without cookies!</p>
+<p>We only use cookies to make our sites function correctly - we don't use them for data mining or advertising.</p>
 <h3>Goolge Analytics</h3>
 <p>When someone visits a TechExeter site, we use a third party service (Google Analytics) to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website.</p>
 <h3>Mailing Lists</h3>

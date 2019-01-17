@@ -23,8 +23,11 @@
 
                 </header>
                 <div class="content">
-
-                    {{ page.description }}
+                    {% if page.description-long %} 
+                    {{ page.description-long }} 
+                    {% else %} 
+                    {{ page.description }} 
+                    {% endif %}
 
                 </div>
             </div>

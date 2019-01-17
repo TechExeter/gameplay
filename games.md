@@ -3,6 +3,7 @@ layout: landing
 title: Games
 html-title: Games -
 description: Retro, Indie and Virtual Reality gaming
+description-long: Retro, Indie and Virtual Reality gaming. All Free!
 image: assets/images/gameplay-games-joypadbar2.jpg
 nav-menu: true
 tile-order: 2
