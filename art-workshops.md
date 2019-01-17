@@ -40,8 +40,27 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 		<li>Slot 2 : 15.00 - 16.30</li>
 	</ul>
 	<p>Spaces are limited to 18 people per slot. Due to the <em>rebellious</em> nature of the workshop, under 16s need to be accompanied by an adult.</p>
+
+	<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+	<script type="text/javascript">
+		var exampleCallback = function() {
+			console.log('Order complete!');
+		};
+
+		window.EBWidgets.createWidget({
+			widgetType: 'checkout',
+			eventId: '55020443628',
+			modal: true,
+			modalTriggerElementId: 'eventbrite-widget-modal-trigger-55020443628',
+			onOrderComplete: exampleCallback
+		});
+	</script>
+
 	<ul class="actions">
-		<li><a href="#" class="button next">Reserve your slot (coming soon)</a></li>
+		<li><button id="eventbrite-widget-modal-trigger-55020443628" class="button next">Reserve your slot</button>
+		<noscript><a href="https://www.eventbrite.co.uk/e/gameplay-presents-rebellion-playground-registration-55020443628" rel="noopener noreferrer" class="button next" target="_blank">Reserve your slot</a></noscript>
+		</li>
 	</ul>
 	</div>
 
