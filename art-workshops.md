@@ -78,7 +78,7 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<div class="boxed">Location: 1st Floor / Dance Studio</div>
 	<p>Come watch our glitched-out pong game self destruct the more it gets played! <br/>Challenge your friends to a game using our crazy controllers, but do you dare to press the big red button?</p>
 	<h3>Maker Workshop</h3>
-	<p>Join us in our workshop area (hosted by <a href="http://2timesdo.co.uk/" taget="_blank">2times.do</a>) to build your own controllers and switches to plug into the game. We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
+	<p>Join us in our workshop area (hosted by <a href="http://2timesdo.co.uk/" taget="_blank">2times.do</a>) to build your own controllers and switches to plug into the game (we're using the Microsoft Xbox Adaptive Controller to connect physical inputs to game joystick movements). We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
 	<h3>Developer Workshop</h3>
 	<p>We'll have the full game sourcecode available if you want to make new builds of the game - just bring along your laptop and have the latest version of <a href="http://unity3d.com/" target="_blank">Unity</a> installed!</p>
 	</div>
