@@ -96,6 +96,30 @@ nav-order: 2
 			</div>
 		</div>
 	</section>
+
+		<section>
+			<i class="image">
+			<img src="assets/images/gameplay-games-rgcd1.png" alt=""  class="fill"/>
+			</i>
+			<div class="content">
+			<div class="inner">
+				<header class="major smallmargin">
+					<h3>Retro Gamer CD's C64 Showcase</h3>
+				</header>
+				<div class="boxed">Location: Café</div>
+				<p>
+				The classic 8-Bit Commodore 64 has been around for over 30 years, and Exeter-based RGCD are one of the few teams in the world developing, publishing and selling new games for for the system. Probably best known for their official Commodore 64 cartridge releases such as LuftrauserZ, Super Bread Box, Micro Hexagon and C64anabalt, in total RGCD have launched over 30 games for the little 8-bit bread-bin (as well as other platforms).</p>
+				<p>
+				RGCD will be showcasing some of their latest releases on real Commodore hardware, including upcoming releases for the Amiga in 2019.
+				</p>
+				
+				<ul class="actions">
+					<li><a href="https://www.rgcd.co.uk/p/games.html" class="button small" target="_blank">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<section>
 		<i class="image">
 		<img src="assets/images/gameplay-games-taphappy2.jpg" alt=""  class="fill"/>
