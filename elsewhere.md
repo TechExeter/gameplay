@@ -90,6 +90,26 @@ nav-order: 5
 			</div>
 		</div>
 	</section>	
+
+	<section>
+		<i class="image">
+		<img src="assets/images/gameplay-elsewhere-imperial1.jpg" />
+		</i>
+		<div class="content">
+			<div class="inner">
+				<header class="major smallmargin">
+					<h3>Imperial Games - tabletop gaming</h3>
+				</header>
+				<div class="boxed">Location: Paris Street</div> 
+				<p>Imperial games brings you Warhammer 40k, Age of Sigmar at 20% off boxed models, plus great discount on all hobby and card game ranges, and sign up online to get free membership to save money!</p>
+				<ul class="actions">
+					<li><a href="https://imperialgames.co.uk" class="button small" target="_blank">Learn more</a></li>	
+					<li><a href="https://goo.gl/maps/xNWcRVM9zBS2" class="button small" target="_blank"><i class="fa fa-map"></i> Map</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 	<section>
 		<i class="image">
 		<img src="assets/images/gameplay-elsewhere-wyvernstales.jpg" />

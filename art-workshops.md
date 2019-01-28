@@ -80,7 +80,7 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<h3>Maker Workshop</h3>
 	<p>Join us in our workshop area (hosted by <a href="http://2timesdo.co.uk/" taget="_blank">2times.do</a>) to build your own controllers and switches to plug into the game (we're using the Microsoft Xbox Adaptive Controller to connect physical inputs to game joystick movements). We'll have soldering irons, wire, connectors and electrical components, so just bring your imagination!</p>
 	<h3>Developer Workshop</h3>
-	<p>We'll have the full game sourcecode available if you want to make new builds of the game - just bring along your laptop and have the latest version of <a href="http://unity3d.com/" target="_blank">Unity</a> installed!</p>
+	<p>We'll have the full game sourcecode available if you want to make new builds of the game - just bring along your laptop and have the latest version of <a href="http://unity3d.com/" target="_blank">Unity</a> installed. Kris will be on hand to explain how the game code works and how you can build in your own features and ideas into the game.</p>
 	</div>
 	<div class="4u$ 12u$(small)">
 		<span class="image fit"><img src="assets/images/gameplay-artworkshop-pong1.jpg" alt="Pong Rewired" /></span>
