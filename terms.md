@@ -17,12 +17,20 @@ sitemap:
 	<div class="inner">
 		<header class="major">
 			<h1>Terms and Conditions</h1>
-			
 		</header>
 
 <!-- Content -->
-<h2 id="content">In a nutshell...</h2>
+<h2 id="content">Photosensitivity/Epilepsy Seizures</h2>
+<div class="boxed"><i class="fa fa-warning"></i> Exhibits at this event may feature flashing lights, dimly lit areas, and unusual lighting patterns</div>
+	<p>A very small percentage of people may experience a seizure when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these “photosensitive epileptic seizures” while watching video games.</p>
 
+	<p>These seizures may have a variety of symptoms, including lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness. Seizures may also cause loss of consciousness or convulsions that can lead to injury from falling down or striking nearby objects.</p>
+
+	<p><strong>Immediately stop playing and consult a doctor if you experience any of these symptoms.</strong> Parents should watch for or ask their children about the above symptoms. Children and teenagers are more likely than adults to experience these seizures. 
+	</p>
+
+<h2>VR Headsets</h2>
+<p>Some people may experience motion sickness, nausea, disorientation, blurred vision or other discomfort while viewing virtual reality content. If you experience any of these symptoms, stop using immediately and remove the VR headset.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><i class="fa fa-eye"></i> Privacy</h3>
@@ -39,7 +47,7 @@ sitemap:
 	</div>
 	<div class="6u 12u$(small)">
 		<h3><i class="fa fa-bullhorn"></i> Social Media</h3>
-		<p>We will be tweeting and instagraming the day - follow us on <a href="https://twitter.com/techexeter/" target="_blank">@techexeter</a> and find us on Instagram at <a href="https://instagram.com/techexeter/" target="_blank">TechExeter</a></p>
+		<p>We will be tweeting and instagraming the day using hashtag #gameplayexeter - follow us on <a href="https://twitter.com/techexeter/" target="_blank">@techexeter</a> and find us on Instagram at <a href="https://instagram.com/techexeter/" target="_blank">TechExeter</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><i class="fa fa-comments"></i> Interviews</h3>
