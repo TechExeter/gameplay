@@ -17,7 +17,7 @@ nav-order: 1
 	<div class="inner">
 <!-- Content -->
 <div class="boxed">Location: Main Auditorium</div> <div class="boxed">&pound; Ticket Required</div>
-<p>The following shows are ticketed. Tickets can be purchased from the box office on the day, or reserve your seat in advance via the website (highly recommended - we've worked hard to keep these ticket prices low at just a few pounds each, so they're sure to go quickly!)</p>
+<p>The following shows are ticketed. Tickets can be purchased from the box office on the day, or reserve your seat in advance via the website (highly recommended - we've worked hard to keep these ticket prices low at just a few pounds each, so they're sure to go quickly!). Please note: children under the age of 12 must be accompanied by an adult.</p>
 
 <div class="row smallermargins">
 		

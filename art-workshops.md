@@ -42,7 +42,7 @@ The Playground will be inclusive for all, whether you would prefer to fully part
 	<ul>
 		<li>Slot 1 : 11.00 - 12.30</li>
 		<li>Slot 2 : 13.00 - 14.30</li>
-		<li>Slot 2 : 15.00 - 16.30</li>
+		<li>Slot 3 : 15.00 - 16.30</li>
 	</ul>
 	<p>Spaces are limited to 18 people per slot. Due to the <em>rebellious</em> nature of the workshop, under 16s need to be accompanied by an adult.</p>
 
